@@ -9,6 +9,7 @@
 
 ## Introduction
 
+
 In an earlier lesson, we learned about _repetition statements_ —
 statements that allow us to break out of the default sequence and repeat a
 section of code multiple times. We also learned about two of JavaScript's
